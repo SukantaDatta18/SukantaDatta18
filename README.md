@@ -63,7 +63,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <p align="center">
   <a href="https://github.com/SukantaDatta18">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harun181&theme=radical" alt="Harun's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SukantaDatta18&theme=radical" alt="Sukanta's GitHub Contribution"/>
   </a>
 </p>
 
