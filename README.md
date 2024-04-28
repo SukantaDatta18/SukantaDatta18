@@ -1,6 +1,6 @@
 ![I am SukantaDatta18](https://github.com/SukantaDatta18/SukantaDatta18/blob/main/PXL_20230801_051410668.PORTRAIT.jpg)
 
-<h1 align="center">Hi 👋, I'm Sukanta DAtta</h1>
+<h1 align="center">Hi 👋, I'm Sukanta Datta</h1>
 <h3 align="center">Programmer | Web Developer</h3>
 
 <div align="center">
